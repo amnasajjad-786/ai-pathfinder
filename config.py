@@ -23,19 +23,22 @@ DYNAMIC_OBSTACLE_PROBABILITY = 0.02  # 2% chance per step
 # Depth Limit for DLS
 DEPTH_LIMIT = 15
 
-# Colors (R, G, B)
-COLOR_BACKGROUND = (255, 255, 255)  # White
-COLOR_GRID_LINE = (200, 200, 200)   # Light gray
-COLOR_START = (0, 255, 0)           # Green
-COLOR_TARGET = (255, 0, 0)          # Red
-COLOR_WALL = (0, 0, 0)              # Black
-COLOR_DYNAMIC_OBSTACLE = (128, 128, 128)  # Gray
-COLOR_FRONTIER = (173, 216, 230)    # Light blue
-COLOR_EXPLORED = (255, 255, 0)      # Yellow
-COLOR_PATH = (128, 0, 128)          # Purple
-COLOR_TEXT = (0, 0, 0)              # Black
-COLOR_BUTTON = (100, 100, 255)      # Blue
-COLOR_BUTTON_HOVER = (150, 150, 255)  # Light blue
+# Colors (R, G, B) - Modern Pinterest Style
+COLOR_BACKGROUND = (250, 250, 252)  # Soft off-white
+COLOR_GRID_LINE = (230, 230, 235)   # Very light gray
+COLOR_START = (52, 211, 153)        # Emerald green
+COLOR_TARGET = (239, 68, 68)        # Vibrant red
+COLOR_WALL = (71, 85, 105)          # Slate gray
+COLOR_DYNAMIC_OBSTACLE = (156, 163, 175)  # Medium gray
+COLOR_FRONTIER = (147, 197, 253)    # Sky blue
+COLOR_EXPLORED = (253, 224, 71)     # Warm yellow
+COLOR_PATH = (167, 139, 250)        # Purple
+COLOR_TEXT = (30, 41, 59)           # Dark slate
+COLOR_BUTTON = (99, 102, 241)       # Indigo
+COLOR_BUTTON_HOVER = (129, 140, 248)  # Light indigo
+COLOR_CARD_BG = (255, 255, 255)     # Pure white
+COLOR_SHADOW = (203, 213, 225)      # Light shadow
+COLOR_ACCENT = (236, 72, 153)       # Pink accent
 
 # Movement directions (8-directional including all diagonals)
 # Order: Up, Up-Right, Right, Down-Right, Down, Down-Left, Left, Up-Left
