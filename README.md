@@ -2,6 +2,10 @@
 
 A comprehensive visualization tool for 6 uninformed search algorithms with dynamic obstacle support and real-time GUI animation.
 
+## 📖 Documentation
+
+**📝 Read the full comprehensive report on Medium**: [AI Pathfinder - Comprehensive Report](https://medium.com/@amnasajjadashraf/ai-pathfinder-comprehensive-report-16fa80527a1d)
+
 ## 🎯 Features
 
 - **6 Uninformed Search Algorithms**:
