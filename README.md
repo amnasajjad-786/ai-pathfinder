@@ -159,7 +159,8 @@ This project fulfills all requirements for **AI2002 Assignment 1, Question 7**:
 
 ## 👨‍💻 Author
 
-Created for AI2002 - Artificial Intelligence (Spring 2026)
+22F-3347 Amna Sajjad
+22F-XXXX Shahzaib 
 
 ## 📝 License
 
