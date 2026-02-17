@@ -159,8 +159,8 @@ This project fulfills all requirements for **AI2002 Assignment 1, Question 7**:
 
 ## 👨‍💻 Author
 
-22F-3347 Amna Sajjad
-22F-XXXX Shahzaib 
+-22F-3347 Amna Sajjad
+-22F-3071 Shahzaib 
 
 ## 📝 License
 
